@@ -18,7 +18,7 @@ After create the service accounts, drop the files in ```/certs``` directory.
 
 ## Getting Started  
 
-1. Change values in ```auth.js```  
+### Change values in ```auth.js```  
 
 - ```<Your app name>```  
 Set your app name.  
@@ -30,8 +30,8 @@ Set service account path of the primary Firebase project.
 - ```<Your secondary service account name>```  
 Set service account path of the secondary Firebase project.  
 
-2. Install node modules  
+### Install node modules  
 Run ```npm install```.
 
-3. Run app  
+### Run app  
 Run ```node app.js``` to run the Node.js app locally.
